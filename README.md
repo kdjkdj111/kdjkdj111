@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+##Introduction
+김동준
+2003.02.09
+
 <!--
 **kdjkdj111/kdjkdj111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
