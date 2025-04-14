@@ -1,6 +1,6 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome!&fontSize=70&color=gradient&stroke=gradient)
 
-<div align = "center">## Kim Dong Jun
+## Kim Dong Jun
 -  Computer Science Student at Yeungnam University
 - 💻 Studying with C, C++, Python, and HTML
 -  Contact: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdjkdj111@gmail.com)](mailto:kdjkdj111@gmail.com)
@@ -18,8 +18,6 @@
 
 ## Career
 - Army sergeant, honorable discharge
-
-</div>
 
 
 
