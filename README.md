@@ -7,7 +7,7 @@ Computer Science Student at Yeungnam University
 💻 Studying with C, C++, Python, and HTML  
 
 📧 Contact:  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdjkdj111@gmail.com)](mailto:kdjkdj111@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/kdjkdj111@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdjkdj111@gmail.com)](mailto:kdjkdj111@gmail.com)
 
 ---
 
