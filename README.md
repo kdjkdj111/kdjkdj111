@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome!&fontSize=70&color=gradient&stroke=green)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome!&fontSize=70&color=auto&stroke=auto)
 
 ## Kim Dong Jun
 -  Computer Science Student at Yeungnam University
