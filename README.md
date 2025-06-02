@@ -30,4 +30,15 @@ Computer Science Student at Yeungnam University
 
 Army Sergeant, Honorable Discharge
 
+## My Pet
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kdjkdj111&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/kdjkdj111"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 </div>
