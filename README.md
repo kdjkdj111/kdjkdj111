@@ -36,7 +36,6 @@ Army Sergeant, Honorable Discharge
 <img
   src="https://render.gitanimals.org/farms/kdjkdj111"
   width="400"
-  height="300"
 />
 </a>
 
