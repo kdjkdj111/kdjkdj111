@@ -32,12 +32,12 @@ Army Sergeant, Honorable Discharge
 
 ## My Pet
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kdjkdj111&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/kdjkdj111"
-    width="700"
-    height="200"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kdjkdj111&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kdjkdj111"
+  width="700"
+  height="400"
+/>
 </a>
   
 
