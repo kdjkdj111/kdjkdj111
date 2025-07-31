@@ -3,7 +3,7 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome!&fontSize=70&color=gradient&stroke=gradient)
 
 ## Kim Dong Jun  
-Computer Science Student at Yeungnam University  
+Computer Science Student <br>
 💻 Studying with C, C++, Python, and HTML  
 
 📧 Contact:  
@@ -30,13 +30,16 @@ Computer Science Student at Yeungnam University
 
 Army Sergeant, Honorable Discharge
 
-## My Pet
+## +
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kdjkdj111&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/kdjkdj111"
-  width="400"
-/>
-</a>
+<div style="display: flex; align-items: center; gap: 20px;">
+    <a href="https://github.com/kdjkdj111/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kdjkdj111&show_icons=true&count_private=true" alt="Dongjun's GitHub stats" />
+  </a>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kdjkdj111&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/kdjkdj111" width="400" />
+  </a>
+</div>
+
 
 </div>
