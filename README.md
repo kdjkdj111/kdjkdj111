@@ -30,15 +30,15 @@ Computer Science Student <br>
 
 Army Sergeant, Honorable Discharge
 
-## +
+## 🦆
 
-<div style="display: flex; align-items: center; gap: 20px;">
-    <a href="https://github.com/kdjkdj111/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kdjkdj111&show_icons=true&count_private=true" alt="Dongjun's GitHub stats" />
-  </a>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kdjkdj111&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/kdjkdj111" width="400" />
-  </a>
+<img
+src="https://render.gitanimals.org/farms/kdjkdj111"
+width="400"
+/>
+</a>
+
 </div>
 
 
