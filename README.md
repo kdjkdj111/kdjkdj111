@@ -57,8 +57,8 @@
 ### 🛠️ Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,py,java,js,ts,c,cpp,dotnet,spring,react,flask,opencv,sqlite,raspberrypi,docker,git&perline=8&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs,py,java,js,ts,c,cpp,dotnet,spring,react,flask,opencv,sqlite,raspberrypi,docker,git&perline=8&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cpy%2Cjava%2Cjs%2Cts%2Cc%2Ccpp%2Cdotnet%2Cspring%2Creact%2Cflask%2Copencv%2Csqlite%2Craspberrypi%2Cdocker%2Cgit&perline=8&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs%2Cpy%2Cjava%2Cjs%2Cts%2Cc%2Ccpp%2Cdotnet%2Cspring%2Creact%2Cflask%2Copencv%2Csqlite%2Craspberrypi%2Cdocker%2Cgit&perline=8&theme=light" />
   <img src="https://skillicons.dev/icons?i=cs,py,java,js,ts,c,cpp,dotnet,spring,react,flask,opencv,sqlite,raspberrypi,docker,git&perline=8" alt="Tech Stack" />
 </picture>
 
